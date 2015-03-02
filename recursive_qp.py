@@ -1,4 +1,4 @@
-#Actual code of the function given in question 4 of assessment 2
+#Actual code of the function given in question 3 of assessment 2
 # This code will generate a series of 20 values-
 import matplotlib.pyplot as plt
 
