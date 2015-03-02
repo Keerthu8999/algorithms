@@ -1,12 +1,12 @@
 #Actual code of the function given in question 3 of assessment 2
-# This code will generate a series of 20 values-
+# This code will generate a series of 24 values-
 import matplotlib.pyplot as plt
 
 def recursive(n):
     global t
     t += 1
     if n == 1:        
-        return n        
+        return 1        
     else:
         return recursive(n-1) + recursive(n-1)            
 t = 0
